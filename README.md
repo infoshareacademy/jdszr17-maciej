@@ -1,3 +1,2 @@
-# Financial Fraud Detection — Data Science Pipeline
-
+# Financial Fraud Detection
 
